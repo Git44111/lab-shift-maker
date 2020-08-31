@@ -139,7 +139,7 @@ ol.breadcrumb li:last-child::after {
     border-right-width : 0px;
     border-right-style : solid;
     border-right-color : none;
-    width : 688px;
+    width : 650px;
     min-height : 500px;
     float : right;
 }
@@ -168,28 +168,34 @@ p{
     margin : 8px 0px 8px 0px;
     font-size : 14px;
     padding-left : 5px;
-    font-family: "M+ 1c light", Helvetica, Arial, sans-serif;
+    font-family: "M plus 1p", Helvetica, Arial, sans-serif;
     font-weight: 300;
     color :#000000;
 }
+.small{
+    font-size : 12px;   
+    font-weight: 400;
+}
+
 h0{
     margin : 20px 0px 10px 0px;
     font-size : 20px;
-    font-family: 'Manrope', sans-serif;
+    font-family: 'M plus 1p', sans-serif;
+    font-weight: 400;
     color: #000000;
 }
 
 h1{
     margin : 10px 0px 10px 0px;
     font-size : 25px;
-    font-family: "M+ 1c regular", Helvetica, Arial, sans-serif;
+    font-family: "M plus 1p", Helvetica, Arial, sans-serif;
     font-weight: 400;
     color :#01678d;
 }
 h2{
     margin : 20px 0px 5px 0px;
     font-size : 20px;
-    font-family: "M+ 1c regular", Helvetica, Arial, sans-serif;
+    font-family: "M plus 1p", Helvetica, Arial, sans-serif;
     font-weight: 400;
     border-bottom-width : 2px;
     border-bottom-style : solid;
